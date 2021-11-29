@@ -1,0 +1,21 @@
+# Django
+*.log
+*.pot
+*.pyc
+*~
+__pycache__
+media
+
+# Python
+*.py[cod] 
+*$py.class
+
+# Database
+db.sqlite3
+
+# Static folder 
+/static/
+
+# Environments
+venv/
+
